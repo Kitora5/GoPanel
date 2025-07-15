@@ -1,1 +1,1 @@
-# GoPanel
+# GoPanel by Kitora5
