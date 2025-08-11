@@ -9,7 +9,7 @@
     "name": "Kitora5",
     "url": "https://github.com/Kitora5/GoPanel"
   },
-  "changelogUrl": "https://github.com/Kitora5/GoPanel/changelog.md",
+  "changelogUrl": "https://github.com/Kitora5/GoPanel/CHANGELOG.md",
   "gitDependencies": {},
   "vpmDependencies": {
     "com.vrchat.avatars": ">=3.2.2"
