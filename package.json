@@ -2,19 +2,22 @@
   "name": "com.github.kitora5.gopanel",
   "displayName": "GoPanel",
   "version": "1.0.0",
+  "description": "Control Panel addon for GoGoLoco",
+  "id": "com.github.kitora5.gopanel",
+  "url": "https://github.com/Kitora5/GoPanel/releases/download/v1.0.0/GoPanel_v1.0.0.zip",
   "author": {
     "name": "Kitora5",
     "url": "https://github.com/Kitora5/GoPanel"
   },
-  "unity": "2019.4",
-  "description": "Control Panel addon for GoGoLoco",
-  "id": "com.github.kitora5.gopanel",
-  "url": "https://github.com/Kitora5/GoPanel/releases/download/v1.0.0/GoPanel_v1.0.0.zip",
-  "author": "Kitora5",
+  "changelogUrl": "https://github.com/Kitora5/GoPanel/changelog.md",
   "gitDependencies": {},
   "vpmDependencies": {
     "com.vrchat.avatars": ">=3.2.2"
   },
   "legacyFolders": {},
   "legacyFiles": {}
+  "hideInEditor": false,
+  "license": "MIT",
+  "unity": "2019.4",
+  "type": ""
 }
